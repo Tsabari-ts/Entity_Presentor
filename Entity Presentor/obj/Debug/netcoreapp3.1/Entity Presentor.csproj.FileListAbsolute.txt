@@ -1,0 +1,235 @@
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.exe
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.deps.json
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.runtimeconfig.json
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.runtimeconfig.dev.json
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.dll
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.pdb
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.csproj.AssemblyReference.cache
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.AssemblyInfoInputs.cache
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.AssemblyInfo.cs
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\Car Rental.StaticWebAssets.Manifest.cache
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\Car Rental.StaticWebAssets.xml
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\obj\Debug\netcoreapp3.1\scopedcss\bundle\Car Rental.styles.css
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.RazorTargetAssemblyInfo.cache
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.dll
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.pdb
+C:\Users\Tomer\Desktop\91558\פרוייקטים\Car Rental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.genruntimeconfig.cache
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.exe
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.deps.json
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.runtimeconfig.json
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.runtimeconfig.dev.json
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.pdb
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.csproj.AssemblyReference.cache
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.AssemblyInfoInputs.cache
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.AssemblyInfo.cs
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\Car Rental.StaticWebAssets.Manifest.cache
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\Car Rental.StaticWebAssets.xml
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\obj\Debug\netcoreapp3.1\scopedcss\bundle\Car Rental.styles.css
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.RazorTargetAssemblyInfo.cache
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.csproj.CopyComplete
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.pdb
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.genruntimeconfig.cache
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tomer\Desktop\CarRental\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.exe
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.deps.json
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.runtimeconfig.json
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.runtimeconfig.dev.json
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.pdb
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.csproj.AssemblyReference.cache
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.AssemblyInfoInputs.cache
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.AssemblyInfo.cs
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\Car Rental.StaticWebAssets.Manifest.cache
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\Car Rental.StaticWebAssets.xml
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\scopedcss\bundle\Car Rental.styles.css
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.RazorTargetAssemblyInfo.cache
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.csproj.CopyComplete
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.dll
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.pdb
+C:\Users\Tomer\Desktop\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.genruntimeconfig.cache
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.StaticWebAssets.xml
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.exe
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.deps.json
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.runtimeconfig.json
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.runtimeconfig.dev.json
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Car Rental.pdb
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.csproj.AssemblyReference.cache
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.AssemblyInfoInputs.cache
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.AssemblyInfo.cs
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.RazorTargetAssemblyInfo.cache
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\Car Rental.StaticWebAssets.Manifest.cache
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\Car Rental.StaticWebAssets.Pack.cache
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Car Rental.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Car Rental.props
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Car Rental.props
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Car Rental.props
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.csproj.CopyComplete
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.dll
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.pdb
+C:\Users\Tomer\Desktop\תומר\לימודים\91558\all projects\Car Rental\CarRental - backend\CarRental\Car Rental\obj\Debug\netcoreapp3.1\Car Rental.genruntimeconfig.cache

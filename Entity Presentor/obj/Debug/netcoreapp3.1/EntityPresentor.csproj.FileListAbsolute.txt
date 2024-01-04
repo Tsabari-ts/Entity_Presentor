@@ -1,0 +1,268 @@
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\EntityPresentor.csproj.AssemblyReference.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\EntityPresentor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\EntityPresentor.AssemblyInfoInputs.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\EntityPresentor.AssemblyInfo.cs
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\EntityPresentor.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\EntityPresentor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\EntityPresentor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\bin\Debug\netcoreapp3.1\EntityPresentor.exe
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\bin\Debug\netcoreapp3.1\EntityPresentor.deps.json
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\bin\Debug\netcoreapp3.1\EntityPresentor.runtimeconfig.json
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\bin\Debug\netcoreapp3.1\EntityPresentor.runtimeconfig.dev.json
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\bin\Debug\netcoreapp3.1\EntityPresentor.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\bin\Debug\netcoreapp3.1\EntityPresentor.pdb
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\EntityPresentor.RazorTargetAssemblyInfo.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\EntityPresentor.StaticWebAssets.Manifest.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\EntityPresentor.StaticWebAssets.Pack.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.EntityPresentor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.EntityPresentor.props
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.EntityPresentor.props
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.EntityPresentor.props
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\EntityPresentor.csproj.CopyComplete
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\EntityPresentor.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\EntityPresentor.pdb
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\CarRental\Car Rental\obj\Debug\netcoreapp3.1\EntityPresentor.genruntimeconfig.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\EntityPresentor.exe
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\EntityPresentor.deps.json
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\EntityPresentor.runtimeconfig.json
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\EntityPresentor.runtimeconfig.dev.json
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\EntityPresentor.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\EntityPresentor.pdb
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.csproj.AssemblyReference.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.AssemblyInfoInputs.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.AssemblyInfo.cs
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.RazorTargetAssemblyInfo.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\staticwebassets\EntityPresentor.StaticWebAssets.Manifest.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\staticwebassets\EntityPresentor.StaticWebAssets.Pack.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.EntityPresentor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.EntityPresentor.props
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.EntityPresentor.props
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.EntityPresentor.props
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.csproj.CopyComplete
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.pdb
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.genruntimeconfig.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.RazorAssemblyInfo.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.RazorAssemblyInfo.cs
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\EntityPresentor.Views.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\EntityPresentor.Views.pdb
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.TagHelpers.input.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.TagHelpers.output.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.RazorCoreGenerate.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.RazorTargetAssemblyInfo.cs
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.Views.pdb
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\EntityPresentor.exe
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\EntityPresentor.deps.json
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\EntityPresentor.runtimeconfig.json
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\EntityPresentor.runtimeconfig.dev.json
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\EntityPresentor.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\EntityPresentor.pdb
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\EntityPresentor.Views.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\EntityPresentor.Views.pdb
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.Owin.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Owin.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.csproj.AssemblyReference.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.AssemblyInfoInputs.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.AssemblyInfo.cs
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.csproj.CoreCompileInputs.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.RazorAssemblyInfo.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.RazorAssemblyInfo.cs
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.TagHelpers.input.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.TagHelpers.output.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.RazorCoreGenerate.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\Razor\Views\MapContainer.cshtml.g.cs
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.RazorTargetAssemblyInfo.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.RazorTargetAssemblyInfo.cs
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.Views.pdb
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\staticwebassets\EntityPresentor.StaticWebAssets.Manifest.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\staticwebassets\EntityPresentor.StaticWebAssets.Pack.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.EntityPresentor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.EntityPresentor.props
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.EntityPresentor.props
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.EntityPresentor.props
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.csproj.CopyComplete
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.pdb
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor - with signalR\Entity Presentor\obj\Debug\netcoreapp3.1\EntityPresentor.genruntimeconfig.cache
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.Owin.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Microsoft.Owin.Security.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\bin\Debug\netcoreapp3.1\Owin.dll
+C:\Users\Tomer\Desktop\תומר\ראיונות עבודה\EntityPresentor\Entity Presentor\obj\Debug\netcoreapp3.1\Razor\Views\Coordinates\Index.cshtml.g.cs
